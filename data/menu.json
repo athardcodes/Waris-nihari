@@ -1,0 +1,102 @@
+{
+  "restaurant": {
+    "name": "Waris Nihari",
+    "category": "Traditional Pakistani nihari restaurant",
+    "address": "7 Abkari Rd, Anarkali Bazaar, Lahore, Punjab 54000, Pakistan",
+    "phone": "",
+    "hours": "",
+    "currency": "PKR"
+  },
+  "menu": [
+    {
+      "id": "sada-nihari",
+      "name": "Sada Nihari",
+      "category": "nihari",
+      "shortDescription": "Classic, slow-cooked, rich and deeply aromatic.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "[Add verified spice level]",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    },
+    {
+      "id": "fried-maghaz-nihari",
+      "name": "Fried Maghaz Nihari",
+      "category": "nihari",
+      "shortDescription": "Bold and warm with rich layered spice.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "[Add verified spice level]",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    },
+    {
+      "id": "fried-nali",
+      "name": "Fried Nali",
+      "category": "nihari",
+      "shortDescription": "Robust texture and comforting depth.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "[Add verified spice level]",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    },
+    {
+      "id": "special-nihari",
+      "name": "Special Nihari",
+      "category": "nihari",
+      "shortDescription": "Signature preparation, indulgent and aromatic.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": true,
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "[Add verified spice level]",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    },
+    {
+      "id": "khameeri-roti",
+      "name": "Khameeri Roti",
+      "category": "breads",
+      "shortDescription": "Freshly baked bread for scooping and serving.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "Not applicable",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    },
+    {
+      "id": "fresh-salad",
+      "name": "Fresh Salad",
+      "category": "sides",
+      "shortDescription": "Light garnish and freshness to balance the rich bowl.",
+      "description": "[Add verified dish description]",
+      "price": null,
+      "available": true,
+      "featured": false,
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+      "imageNote": "Editorial food photograph — replace with approved Waris Nihari photography.",
+      "spiceLevel": "Not applicable",
+      "allergens": "[Add verified allergen information]",
+      "addOns": []
+    }
+  ]
+}
